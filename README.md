@@ -8,8 +8,24 @@
 Paystack provides APIs that you can use to interact with their payment system. 
 Here's a general outline of how you can integrate Paystack into your Spring Boot application:`
 
+### Prerequisites
++ Basic Spring boot
++ Basic of Rest API
+
+
+Simply create an account on the Paystack website.
+
+
 ### ___PostMan view___
 <img src="https://github.com/Innocentsax/PayStack_Integration_API/blob/main/Postman%20view.png">
+
+### Setup a Spring Boot application with the following dependencies
++ Spring Web
++ Spring Data JPA
++ MySQL Driver
++ HTTPClient
++ Hibernate Validation dependency
++ Lombok
 
 ## Sign Up and Get API Keys:
 Start by signing up on the Paystack platform to get your API keys. 
