@@ -1,7 +1,7 @@
 # PayStack Integration API
 
-### ___Controller view___
-<img src="https://github.com/Innocentsax/PayStack_Integration_API/blob/main/Controller.png">
+### ___View___
+<img src="https://github.com/Innocentsax/PayStack_Integration_API/blob/main/PaymentPaystack.png">
 
 
 `Integrating the Paystack payment gateway with a Spring Boot application involves a few steps. 
