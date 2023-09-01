@@ -23,7 +23,7 @@ Simply create an account on the [Paystack website](https://paystack.com/).
 + Spring Web.
 + Spring Data JPA.
 + MySQL Driver.
-+ HTTPClient
++ HTTPClient.
 + Hibernate Validation dependency
 + Lombok
 
