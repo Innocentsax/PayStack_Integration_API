@@ -10,7 +10,7 @@ Here's a general outline of how you can integrate Paystack into your Spring Boot
 
 ### Prerequisites
 + Basic Spring boot.
-+ Basic of Rest API
++ Basic of Rest API.
 
 
 Simply create an account on the [Paystack website](https://paystack.com/).
