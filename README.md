@@ -22,7 +22,7 @@ Simply create an account on the [Paystack website](https://paystack.com/).
 ### Setup a Spring Boot application with the following dependencies
 + Spring Web.
 + Spring Data JPA.
-+ MySQL Driver
++ MySQL Driver.
 + HTTPClient
 + Hibernate Validation dependency
 + Lombok
