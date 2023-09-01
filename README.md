@@ -9,7 +9,7 @@ Paystack provides APIs that you can use to interact with their payment system.
 Here's a general outline of how you can integrate Paystack into your Spring Boot application:`
 
 ### Prerequisites
-+ Basic Spring boot
++ Basic Spring boot.
 + Basic of Rest API
 
 
