@@ -25,7 +25,7 @@ Simply create an account on the [Paystack website](https://paystack.com/).
 + MySQL Driver.
 + HTTPClient.
 + Hibernate Validation dependency.
-+ Lombok
++ Lombok.
 
 ## Sign Up and Get API Keys:
 Start by signing up on the Paystack platform to get your API keys. 
