@@ -20,7 +20,7 @@ Simply create an account on the [Paystack website](https://paystack.com/).
 <img src="https://github.com/Innocentsax/PayStack_Integration_API/blob/main/Postman%20view.png">
 
 ### Setup a Spring Boot application with the following dependencies
-+ Spring Web
++ Spring Web.
 + Spring Data JPA
 + MySQL Driver
 + HTTPClient
