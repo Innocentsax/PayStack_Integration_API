@@ -24,7 +24,7 @@ Simply create an account on the [Paystack website](https://paystack.com/).
 + Spring Data JPA.
 + MySQL Driver.
 + HTTPClient.
-+ Hibernate Validation dependency
++ Hibernate Validation dependency.
 + Lombok
 
 ## Sign Up and Get API Keys:
